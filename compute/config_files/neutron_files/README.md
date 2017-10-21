@@ -1,0 +1,1 @@
+neutron服务下面的nova.conf是安装neutron组件之后基于nova组件的更新，计算节点的网络服务的选择也是与控制节点一致，选择的网络为provider networks（option 1），如果需要选择网络self-service（option 2）需要在安装neutron组件时进行重新选择
