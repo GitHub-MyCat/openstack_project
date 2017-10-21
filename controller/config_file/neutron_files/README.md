@@ -1,0 +1,1 @@
+neutron组件下面的nova.conf配置文件是安装neutron组件时候基于nova组件后面的修改，是对之前nova组件配置文件的新增，如果只是安装了nova而没有安装neutron那么此配置文件不需要进行更新
